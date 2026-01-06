@@ -123,3 +123,10 @@ Add new KPIs or visuals
 Modify SQL queries or DAX measures
 Connect additional data sources
 Apply themes for enhanced visuals
+
+---
+
+🙋‍♀️ **Connect With Me**
+Name - Ridam Sharma
+📎 LinkedIn: https://linkedin.com/in/your-link
+📧 Email: ridam.261205@gmail.com
