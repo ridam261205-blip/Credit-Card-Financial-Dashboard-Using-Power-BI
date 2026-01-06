@@ -3,6 +3,7 @@ Power BI | PostgreSQL | Data Analytics
 🌟 PROJECT OVERVIEW
 The Credit Card Financial Dashboard is an interactive and visually rich Power BI dashboard designed to analyze and monitor credit card transactions, customer behavior, and financial performance in real time.
 This project demonstrates how raw transactional data stored in PostgreSQL can be transformed into meaningful insights using Power BI, enabling data-driven financial decision-making.
+
 🎯 **OBJECTIVE**
 To analyze credit card spending patterns
 To track revenue, transactions, and customer segments
@@ -13,6 +14,7 @@ Power BI – Data visualization & dashboard creation
 PostgreSQL – Database management & data storage
 SQL – Data extraction, filtering, and transformations
 DAX – Calculated measures and KPIs
+
 📊 **KEY DASHBOARD FEATURES**
 ✔️ Total Revenue & Transaction Analysis
 ✔️ Monthly & Yearly Spending Trends
@@ -20,12 +22,14 @@ DAX – Calculated measures and KPIs
 ✔️ Card Type Performance (Silver, Gold, Platinum, etc.)
 ✔️ Merchant & Category-wise Spending
 ✔️ Interactive Filters & Slicers for Dynamic Analysis
+
 📈 **INSIGHTS GENERATED**
 Identified top-spending customer segments
 Analyzed most profitable card categories
 Tracked peak spending periods
 Compared transaction volume vs revenue trends
 Highlighted customer behavior patterns
+
 🧠 **SKILLS DEMONSTRATED**
 Data Modeling & Relationships
 SQL Query Writing
@@ -33,6 +37,7 @@ Power BI Report Design
 KPI & Measure Creation using DAX
 Business-oriented Data Analysis
 Dashboard Storytelling
+
 🗄️ **DATA SOURCE**
 Transactional data imported from PostgreSQL database
 Structured tables representing:
