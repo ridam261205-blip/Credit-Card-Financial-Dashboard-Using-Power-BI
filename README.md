@@ -128,5 +128,5 @@ Apply themes for enhanced visuals
 
 🙋‍♀️ **Connect With Me**
 Name - Ridam Sharma
-📎 LinkedIn: https://linkedin.com/in/your-link
+📎 LinkedIn: https://www.linkedin.com/in/ridam-sharma-688784357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 📧 Email: ridam.261205@gmail.com
